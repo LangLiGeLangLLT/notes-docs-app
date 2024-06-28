@@ -6,7 +6,8 @@ const themeConfig = {
   project: {
     link: 'https://github.com/LangLiGeLangLLT/notes-docs-app',
   },
-  docsRepositoryBase: 'https://github.com/LangLiGeLangLLT/notes-docs-app',
+  docsRepositoryBase:
+    'https://github.com/LangLiGeLangLLT/notes-docs-app/tree/main',
   feedback: {
     content: null,
   },
