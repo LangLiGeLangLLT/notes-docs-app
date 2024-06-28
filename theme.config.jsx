@@ -11,6 +11,11 @@ const themeConfig = {
   feedback: {
     content: null,
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – Notes Docs',
+    }
+  },
 }
 
 export default themeConfig
